@@ -14,7 +14,7 @@ This plugin will parse [Rubocop](https://github.com/bbatsov/rubocop) json result
 
 [xltv-rubocop-plugin-travis-image]: https://travis-ci.org/xebialabs-community/xltv-rubocop-plugin.svg?branch=master
 [xltv-rubocop-plugin-travis-url]: https://travis-ci.org/xebialabs-community/xltv-rubocop-plugin
-[xltv-rubocop-plugin-codacy-image]: https://api.codacy.com/project/badge/Grade/4ccbfe085e53497ca0df627521b6855b
+[xltv-rubocop-plugin-codacy-image]: https://api.codacy.com/project/badge/Grade/4de5379d631549b69147d0fdd290a21f
 [xltv-rubocop-plugin-codacy-url]: https://www.codacy.com/app/rvanstone/xltv-rubocop-plugin
 [xltv-rubocop-plugin-code-climate-image]: https://codeclimate.com/github/xebialabs-community/xltv-rubocop-plugin/badges/gpa.svg
 [xltv-rubocop-plugin-code-climate-url]: https://codeclimate.com/github/xebialabs-community/xltv-rubocop-plugin
